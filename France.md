@@ -11,3 +11,4 @@
 * Bug 1717806 - Video does not play at tf1.fr with ETP set to STRICT - https://bugzil.la/1717806
 * Multiple reports on Twitter and mozfr that mycanal can't be accessed
 * laposte.com invoices can't be downloaded https://twitter.com/SebuPretender/status/1595405391201984513
+* UberEats not working with Nightly and ETP https://github.com/webcompat/web-bugs/issues/114611
