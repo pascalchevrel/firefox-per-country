@@ -12,3 +12,4 @@
 * Multiple reports on Twitter and mozfr that mycanal can't be accessed
 * laposte.com invoices can't be downloaded https://twitter.com/SebuPretender/status/1595405391201984513
 * UberEats not working with Nightly and ETP https://github.com/webcompat/web-bugs/issues/114611
+* Ministry of Justice refuses Firefox connections: http://github.com/pascalchevrel/firefox-per-country/issues/10
