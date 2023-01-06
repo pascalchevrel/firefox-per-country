@@ -1,7 +1,6 @@
 ## Spain
 
 ### Feedback sources worth monitoring
-* Mozilla Community forums: https://forums.mozfr.org/search.php?search_id=newposts
 * Recent tweets in Spanish: https://twitter.com/search?q=Firefox%20lang%3Aes&src=typed_query&f=live
 
 ### Identified issues impacting users
