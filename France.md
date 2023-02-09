@@ -8,6 +8,7 @@
 * Maps on Viamichelin.com can't be printed because of Bug 976173 - preserveDrawingBuffer: false breaks printing of Canvas / WebGL - https://bugzil.la/976173
 * www.leboncoin.fr - Firefox is an unsupported browser https://github.com/webcompat/web-bugs/issues/115403 bas parsing of version 110, it believes it is IE 11
 * No login autofill on Boulanger.com firefox-bug France [#12](https://github.com/pascalchevrel/firefox-per-country/issues/12)
+* intermarche.com askes users to switch to Chrome [#118004](https://webcompat.com/issues/118004)
 
 
 ### Potential issues worth investigation
