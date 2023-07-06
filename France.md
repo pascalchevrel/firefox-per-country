@@ -10,6 +10,7 @@
   - Investigation in progress, bug related to the use of Shadow DOM 
 * intermarche.com asks users to switch to Chrome [#118004](https://webcompat.com/issues/118004)
 * impots.gouv.fr blocks Firefox mobile https://webcompat.com/issues/121515
+* Dashlane extension causes performance issues to Firefox starting with version 115 https://bugzilla.mozilla.org/show_bug.cgi?id=1838448
 
 ### Solved issues
 * www.leboncoin.fr - Firefox is an unsupported browser https://github.com/webcompat/web-bugs/issues/115403 bad parsing of version 110, it believes it is IE 11 -> we froze the `rv:` part of the UA to 109 as a temporary measure
