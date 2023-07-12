@@ -10,13 +10,13 @@
   - Investigation in progress, bug related to the use of Shadow DOM 
 * intermarche.com asks users to switch to Chrome [#118004](https://webcompat.com/issues/118004)
 * impots.gouv.fr blocks Firefox mobile https://webcompat.com/issues/121515
-* Dashlane extension causes performance issues to Firefox starting with version 115 https://bugzil.la/1838448
 
 ### Solved issues
 * www.leboncoin.fr - Firefox is an unsupported browser https://github.com/webcompat/web-bugs/issues/115403 bad parsing of version 110, it believes it is IE 11 -> we froze the `rv:` part of the UA to 109 as a temporary measure
 * Bug 1717806 - Video does not play at tf1.fr with ETP set to STRICT - https://bugzil.la/1717806
     - Solved via remote settings
 * CPS card (French Healthcare Professional card) identification broken, reported in 114 RC, fixed in 114RC3 before shipping https://bugzil.la/1835103
+* Dashlane extension causes performance issues to Firefox starting with version 115 https://bugzil.la/1838448 -> fixed by Dashlane https://status.dashlane.com/pages/incident/5aabcb89fccc4b04d3774443/646f9badebfc640536e538b0
 
  
 ### Potential issues worth investigation
